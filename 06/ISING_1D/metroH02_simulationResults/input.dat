@@ -1,0 +1,19 @@
+0.5
+2.0
+10
+50
+1.0
+0.02
+1
+20
+100000
+
+  ReadInput >> temp_i;
+  ReadInput >> temp_f; 
+  ReadInput >> n_sim;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
