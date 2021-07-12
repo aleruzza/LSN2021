@@ -1,0 +1,5 @@
+sigma: 0.0, N_epochs: 30, n_train_data: 500, n_validation_data: 50, loss: 0.0006415093084797263, loss_ec: 0.0006415093084797263
+sigma: 0.3, N_epochs: 30, n_train_data: 500, n_validation_data: 50, loss: 0.10002988576889038, loss_ec: 0.0012158654863014817
+sigma: 0.5, N_epochs: 30, n_train_data: 500, n_validation_data: 50, loss: 0.278360515832901, loss_ec: 0.0039012664929032326
+sigma: 0.7, N_epochs: 30, n_train_data: 500, n_validation_data: 50, loss: 0.5462713837623596, loss_ec: 0.006529750302433968
+sigma: 1, N_epochs: 30, n_train_data: 500, n_validation_data: 50, loss: 1.1145485639572144, loss_ec: 0.01263056043535471
