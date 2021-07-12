@@ -1,0 +1,25 @@
+100
+10000000
+100
+0.798
+0.798
+1
+0.614
+0.614
+1
+1
+1
+100000
+
+    input >> n_block;
+    input >> n_step;
+    input >> n_step_eq;
+    input >> mu_min;
+    input >> mu_max;
+    input >> mu_n;
+    input >> sigma_min;
+    input >> sigma_max;
+    input >> sigma_n; 
+    input >> save_means;    
+    input >> save_points;
+    input >> npoints_tosave;
