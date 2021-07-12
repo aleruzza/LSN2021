@@ -1,0 +1,15 @@
+32
+1
+1
+1000
+0
+100
+10000
+
+    fin >> n_cities;
+    fin >> map_type; CIRC=0, SQUARE=1
+    fin >> beta_min;
+    fin >> beta_max;
+    fin >> spacing; LOG=0, LIN=1
+    fin >> n_betasteps;
+    fin >> mcstep_for_beta;

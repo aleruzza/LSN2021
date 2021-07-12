@@ -1,0 +1,17 @@
+32
+1
+128
+3
+0.6
+0.1
+10000
+500
+
+     fin >> n_cities;
+    fin >> map_type;
+    fin >> ind_for_generation;
+    fin >> q_exp;
+    fin >> p_crossover;
+    fin >> p_mut;
+    fin >> n_generations;
+    fin >> ngen_exch_interval;
