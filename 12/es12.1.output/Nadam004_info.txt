@@ -1,0 +1,7 @@
+<tensorflow.python.keras.optimizer_v2.nadam.Nadam object at 0x7f69449880d0>
+epochs: 20
+loss: 0.11959399282932281
+accuracy: 0.9811999797821045
+optimizer: Nadam
+loss: 0.11959399282932281
+accuracy : 0.9811999797821045

@@ -1,0 +1,7 @@
+<tensorflow.python.keras.optimizer_v2.adadelta.Adadelta object at 0x7fe3d828a0d0>
+epochs: 20
+loss: 0.6008468270301819
+accuracy: 0.8737999796867371
+optimizer: Adadelta
+loss: 0.6008468270301819
+accuracy : 0.8737999796867371

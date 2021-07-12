@@ -1,0 +1,7 @@
+<tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop object at 0x7f7c1eb43190>
+epochs: 20
+loss: 0.3957551419734955
+accuracy: 0.9742000102996826
+optimizer: RMSprop
+loss: 0.3957551419734955
+accuracy : 0.9742000102996826
