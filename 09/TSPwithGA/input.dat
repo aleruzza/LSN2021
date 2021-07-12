@@ -1,0 +1,15 @@
+32
+1
+128
+3
+0.5
+0.1
+10000
+
+    fin >> n_cities;
+    fin >> map_type; 0:CIRC, 1:SQUARE
+    fin >> ind_for_generation;
+    fin >> q_exp;
+    fin >> p_crossover;
+    fin >> p_mut;
+    fin >> n_generations;
