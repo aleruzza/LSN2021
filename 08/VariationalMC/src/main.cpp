@@ -1,3 +1,28 @@
+/*****************************************************
+Variational Monte Carlo: solves the schrodinger equation
+for a specific potential varying the parameters of 
+a parametric wavefunction ansatz.
+
+Usage:
+-----------
+All the input parameters are read from input.dat
+See Init()
+Every file used in this code is stored in the io dir.
+
+Output:
+---------
+The following output files can be created:
+* blkmeans.ouput - contains the intermediate results 
+                    of blocking average
+* final_measures.output - contains the final estimates
+                        with uncertainty
+                        for every pair of wf parameters
+                        studied
+* points.output - contains the coordinates of every point
+                    ever sampled by the Metropolis algorithm
+                    
+******************************************************/
+
 #include <iostream>
 #include <fstream>
 #include <string>
